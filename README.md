@@ -1,0 +1,1 @@
+# odoo_online_technical_training
